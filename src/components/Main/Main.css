@@ -1,0 +1,27 @@
+.input-box{
+    padding-top: 10px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .card {
+    max-width: 345;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .media {
+    height: 0;
+    padding-top: "56.25%";
+  }
+  
+  .avatar {
+    background-color: red;
+  }
+  
+  .actionCounter {
+    margin-left: 6px;
+  }
+  
